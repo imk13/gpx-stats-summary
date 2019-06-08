@@ -1,0 +1,20 @@
+{
+    "name": "gpx-stats-summary",
+    "version": "1.0.0",
+    "description": "gpx summary e.g. total distance, total time",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "clear;node index.js"
+    },
+    "keywords": [
+        "gpx",
+        "summary",
+        "gpx-summary"
+    ],
+    "author": "imkx13@gmail.com",
+    "license": "ISC",
+    "dependencies": {
+        "route-stat": "0.0.1"
+    }
+}
